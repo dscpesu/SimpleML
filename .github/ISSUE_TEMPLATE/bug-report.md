@@ -2,9 +2,8 @@
 name: BUG REPORT
 about: If you find any bugs in the repository use this template to report them
 title: "[BUG]"
-labels: ''
-assignees: ''
-
+labels: ""
+assignees: ""
 ---
 
 # Bug Report
@@ -27,8 +26,7 @@ assignees: ''
 
 **Define Yourself**
 
-- [ ] GSSOC Participant
-- [ ] Contributor
+- [ ] Hacktober Fest Contributor
 
 <!-- Have you talked to any of the Moderators or Project Admin (Adithya S K or CognitiveLab) before creating this issue? If not, please have a quick discussion first and then once approved, create this bug report. -->
 

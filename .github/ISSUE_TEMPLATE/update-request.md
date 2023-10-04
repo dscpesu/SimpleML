@@ -2,9 +2,8 @@
 name: Update Request
 about: If you want to make any updates to a project
 title: "[UPDATE]"
-labels: ''
-assignees: ''
-
+labels: ""
+assignees: ""
 ---
 
 <!-- I want to change the data set for this particular project -->
@@ -24,8 +23,7 @@ assignees: ''
 
 **Define You**
 
-- [ ] GSSOC Participant
-- [ ] Contributor
+- [ ] Hacktober Fest Contributor
 
 <!-- Have you talked to any of the Moderators or Project Admin (Adithya S K or CognitiveLab) before creating this issue? If not, just have a quick discussion and then once approved, create this feature request. -->
 

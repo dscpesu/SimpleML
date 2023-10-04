@@ -118,5 +118,3 @@ You can refer to the following articles on the basics of Git and Github and also
 - [Learn GitHub from Scratch](https://lab.github.com/githubtraining/introduction-to-github)
 
 🎉 🎊 😃 Happy Contributing 😃 🎊 🎉
-
-For more information about Cognitive Lab, please visit our [website](https://www.cognitivelab.tech/). To reach out to the admins, please visit our [admins link](https://github.com/adithya-s-k). To access the repository, please visit our [repo link](https://github.com/CognitiveLab-io/AI-Simplified).

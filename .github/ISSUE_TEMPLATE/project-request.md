@@ -2,9 +2,8 @@
 name: Project Request
 about: If you want to propose a project idea that can be added to the repository
 title: "[PROJECT PROPOSAL]"
-labels: ''
-assignees: ''
-
+labels: ""
+assignees: ""
 ---
 
 ## Project Request
@@ -26,8 +25,7 @@ assignees: ''
 
 **Define You**
 
-- [ ] GSSOC Participant
-- [ ] Contributor
+- [ ] Hacktober Fest Contributor
 
 <!-- Have you talked to any of the Moderators or Project Admin (Adithya S K or CognitiveLab) before creating this issue? If not, just have a quick discussion and then once approved, create this feature request. -->
 
