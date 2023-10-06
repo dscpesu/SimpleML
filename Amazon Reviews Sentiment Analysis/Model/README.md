@@ -16,14 +16,12 @@ purchasing journey without any problems.
 This dataset consists of ranking product ratings and reviews on Amazon.
 
 # Models Used #
+Mention the various models which were used for training.
 
 ### Visualization ###
-
-### Categorical variable summary ###
-![image](https://github.com/SHAY2407/DL-Simplified/blob/main/Amazon%20Reviews%20Sentiment%20Analysis/Images/newplot.png)
+Data Visualization Plots
 
 ### Result ###
-![image](https://github.com/SHAY2407/DL-Simplified/blob/main/Amazon%20Reviews%20Sentiment%20Analysis/Images/result.png)
 
 ### Accuracy ###
 
