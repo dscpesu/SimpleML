@@ -15,32 +15,7 @@ purchasing journey without any problems.
 
 This dataset consists of ranking product ratings and reviews on Amazon.
 
-
-### What I have done
-1. Imported the required libraries
-2. Imported the dataset
-3. Cleaned the data from null values
-4. Categorical variable analysis
-5. Splitting ratings from 1-5 into positive, neutral, and negative
-6. Processing the the review text and transform it into format usable by Machine learning models
-7. Converting a collection of raw documents to a matrix of TF-IDF (Term Frequency Inverse Documnet Frequency) features.
-8. Getting accuracy score of Naive Bayes Model
-
-
-
-### Libraries used
-1. `ntlk`
-2. `sklearn`
-3. `textblob`
-4. `wordcloud`
-5. `plotly`
-6. `numpy`
-7. `pandas`
-8. `matplotlib`
-
-
 # Models Used #
-1. Naive Bayes Model
 
 ### Visualization ###
 
@@ -52,16 +27,5 @@ This dataset consists of ranking product ratings and reviews on Amazon.
 
 ### Accuracy ###
 
-| Sentiment                                   | Overall       |
-|:-------------------------------------------:|:-------------:|
-| Negative                                    |3.968051       |
-| Positive                                    |4.737439       |
-| Neutral                                     |4.687500       |
-
 ### Conclusion ###
 Successfully able to develop a Deep Learning Model that can analyze the sentiments from the given data of Amazon reviews
-
-**Yashwardhan Khanna**
-
-Connect with me on Linkedin: https://www.linkedin.com/in/yashwardhan-khanna-7596871a5/
-Check out my Github profile: https://github.com/SHAY2407
