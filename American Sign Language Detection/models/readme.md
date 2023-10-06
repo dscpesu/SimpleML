@@ -1,11 +1,4 @@
  # American Sign Language Detection
-![image](https://github.com/aditya0929/DL-Simplified/assets/127277877/c149f669-ed35-4751-87bd-b148495fafc4)
-
-
-**SOCIAL SUMMER OF CODE 2023**
-github link - [aditya0929](https://github.com/aditya0929)
-
-**The models that i have created are based on the approach for making a Deep Learning Model which deals with mutli isntance image classification as in the dataset selected we had 36 classes of images:-**
 
  Here are the classes present in the ASL Dataset, formatted in a table for better readability:
 
@@ -49,10 +42,6 @@ github link - [aditya0929](https://github.com/aditya0929)
 | 9       |
 
 These classes represent the hand gestures corresponding to the English alphabets (A-Z) and numbers (0-9) in American Sign Language.
-
-## Important note:-
-**for all the three models that i have created, the parts excluding the model architecture and its definition are mostly the same for the accuracy result to be based out on the same parameters.**
-
 
 # Approach for Multi-Instance Image Classification
 
