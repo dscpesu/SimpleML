@@ -3,20 +3,11 @@ to predict correct sign language labels corresponding to their corresponding sig
 
 
 
-Full name : Aditya Narayan Jha
+Full name : **enter your name here**
 
-GitHub Profile Link : https://github.com/aditya0929
+GitHub Profile Link : **enter your github url**
 
-Email ID : adityajha8906@gmail.com
-
-Participant ID (if applicable): (certificate_id) - 7e43ecd9-76ff-4713-917e-f884b9fedf02
-
-Approach for this Project :
-
-**Image segmentation**
-
-is a crucial task in computer vision that involves identifying and classifying different regions or objects within an image. In this project, I will explore three different approaches for image segmentation using deep learning models: **VGG16**,  **MobileNet** . **InceptionV3** and **InceptionResNetV2**.
-
+Email ID : **email address**
 
 `InceptionResNetV2` 
 
@@ -32,36 +23,7 @@ To implement InceptionV3, we start by loading the pre-trained model, which comes
 
 `vgg16`
 
-I will utilize the **VGG16** (Visual Geometry Group) architecture, which have deeper and complex structures. These models are renowned for their exceptional performance on various image recognition tasks. By leveraging the pre-trained weights of VGG, I can benefit from the learned features and fine-tune the network for image segmentation on the Lemon Quality Dataset.
+The **VGG16** (Visual Geometry Group) architecture, which have deeper and complex structures are renowned for their exceptional performance on various image recognition tasks. By leveraging the pre-trained weights of VGG, I can benefit from the learned features and fine-tune the network for image segmentation on the Lemon Quality Dataset.
 
 
 **Accuracy Comparison**
-
-| `Model`  | `Accuracy` |
-|--------|----------|
-| VGG16  |   97%    |
-| InceptionV3 | 88% |
-| InceptionResNetV2 | 88% |
-| MobileNet | 97% |
-
-Since the models' decent levels of accuracy(88% and above) means that most of their pictures will be almost havinG similar predicted labels with a small room for mistake, the anticipated labels for the sign image labels are as are visualised as follows.
-
-**Throughout the project,** 
-
-I will preprocess the dataset by resizing the images and splitting it into training,validation and testing sets. For training, I will employ a loss function suitable for image segmentation, such as cross-entropy loss, and optimize the models using technique like  Adam optimization
-
-**After training the models,**
-
-I will evaluate their performance using appropriate metrics. Additionally, I will visualize the segmentation results to gain insights into how well the models can accurately identify and classify different regions within the vegetable images.
-
-
-![predicted labels](https://github.com/aditya0929/DL-Simplified/assets/127277877/6f459067-2939-4436-b19a-5c8177a7e7bb)
-
-
-## after evaluation, `MobileNet` or `VGG16` model looks to be the best fit model in this case of American Sign Language Classification .
-
-
-**Future Scope**
-
-This project will contribute to advancing the understanding and application of deep learning in the field of computer vision and could potentially find applications in sorting of sign languages in different classes.
-
