@@ -34,7 +34,7 @@ This repository consists of various machine learning projects, and all of the pr
 - **Project Name** 📁 - The project folder, named in `kebab-case`.
   - **Dataset** 📦 - Stores the dataset used in the project. If the dataset is too large to upload, create a `README.md` file inside the `Dataset` folder and provide a link to the dataset.
   - **Images** 📷 - Contains images generated during data analysis, data visualization, or data segmentation.
-  - **Model** 🤖 - This folder houses your project files, which could be Jupyter notebooks, Python scripts, or any other relevant files for your machine learning project. Also, include a `README.md` file in this folder following this template.
+  - **Model** 🤖 - This folder houses your project files, which could be Jupyter notebooks, Python scripts, or any other relevant files for your machine learning project. Also, include a `README.md` file in this folder following this template. Uodate existing boilerplate with your code.
 
 ## 🧮 Workflow
 
