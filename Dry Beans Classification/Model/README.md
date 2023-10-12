@@ -46,6 +46,6 @@ By using Logistic Regression I got
     Accuracy of testing data: 92.85014691478942
  ``` 
 
-As the accuracy of **Random Forest Classifier** algorithm is more ie. **92.85%** ~ **93%**. Hence this model is selected.
+As the accuracy of **Random Forest Classifier** algorithm is more ie. **92.85%** ~ **93%**. Hence this model is selected for pickle file.
 
 ![accuracy](https://github.com/prathimacode-hub/SimpleML/assets/74645302/00e49738-6c30-4c64-b1da-5b161158bea2)
