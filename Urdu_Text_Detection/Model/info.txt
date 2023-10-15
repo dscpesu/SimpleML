@@ -1,0 +1,6 @@
+saved_model:
+epochs: 20 - learning rate: 0.000020 - loss: 0.0037, 0.0040
+epochs: 10 - learning rate: 0.000005 - loss: 0.0035, 0.0039
+
+saved_model2:
+epochs: 10 - learning rate: 0.000030 - loss: 0.0040, 0.0044
