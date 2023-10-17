@@ -15,7 +15,7 @@ This project provides a dataset and a Streamlit dashboard for analyzing student 
 
 ## Dataset Description 📊
 
-The dataset includes two separate datasets, one for student performance in Mathematics (mat) and another for Portuguese language (por). The target attribute of interest is G3, which represents the final year grade issued at the 3rd period. It's important to note that G3 is highly correlated with G2 (2nd-period grade) and G1 (1st-period grade), which are important predictors for G3.
+The data includes datasets, for student performance . The target attribute of interest is G3, which represents the final year grade issued at the 3rd period. It's important to note that G3 is highly correlated with G2 (2nd-period grade) and G1 (1st-period grade), which are important predictors for G3.
 
 Predicting G3 without G2 and G1 is challenging, but it can be a valuable task for educational analysis and interventions.
 
