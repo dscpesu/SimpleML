@@ -8,3 +8,4 @@ plotly
 numpy
 pandas
 matplotlib
+emoji
